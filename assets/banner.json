@@ -1,0 +1,258 @@
+{
+  "banner": [
+    "https://rukminim1.flixcart.com/flap/800/356/image/b782b84a7cbc0648.jpg",
+    "https://rukminim1.flixcart.com/flap/800/356/image/138a0e17dd9a29ac.jpg",
+    "https://rukminim1.flixcart.com/flap/800/356/image/562aedc205d81268.jpg",
+    "https://rukminim1.flixcart.com/flap/800/356/image/c885b469c0d865f5.jpg",
+    "https://rukminim1.flixcart.com/flap/800/356/image/dc4f835bc3db1265.jpg",
+    "https://rukminim1.flixcart.com/flap/800/356/image/54c72935b46df780.jpg",
+    "https://rukminim1.flixcart.com/flap/800/356/image/71c41b3e8c56a0e7.jpg",
+    "https://rukminim1.flixcart.com/flap/800/356/image/41d0778aeab79dde.jpg",
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "color": "#fbc831",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_200,c_limit,fl_progressive/assets/images/retaillabs/2020/3/12/3388f8e5-6127-4af6-927e-5465f9593b381584007662528-new2.gif"
+    },
+    {
+      "id": 2,
+      "color": "#9fd236",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_200,c_limit,fl_progressive/assets/images/2020/2/19/2d3ac76a-162c-4bdd-8377-0db38414a67b1582107396889-Top-Nav-final_01--1-.jpg"
+    },
+    {
+      "id": 3,
+      "color": "orange",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_200,c_limit,fl_progressive/assets/images/2020/2/19/2e45d494-40d6-48fc-8728-3f652da055261582107431068-Top-Nav-final_03--1-.jpg"
+    },
+    {
+      "id": 4,
+      "color": "#f2f2f2",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_200,c_limit,fl_progressive/assets/images/2020/2/19/78800be7-7335-4b34-b711-cfa70fadfaa41582107460174-Top-Nav-final_05--1-.jpg"
+    },
+    {
+      "id": 5,
+      "color": "#f2f2f2",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_200,c_limit,fl_progressive/assets/images/2020/2/19/8269e5a9-d7ff-4aaf-a137-c72ad5a984511582107536407-Top-Nav-final_09--1-.jpg"
+    },
+    {
+      "id": 6,
+      "color": "#f2f2f2",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_200,c_limit,fl_progressive/assets/images/2020/2/19/8bff7d94-7c96-4f60-b399-362f268569a41582107510336-Top-Nav-final_07--1-.jpg"
+    },
+    {
+      "id": 7,
+      "color": "#f2f2f2",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_200,c_limit,fl_progressive/assets/images/2020/2/19/b1e72cd7-d59b-450a-82a5-097ebb54239f1582107487425-Top-Nav-final_13--1-.jpg"
+    },
+    {
+      "id": 8,
+      "color": "#f2f2f2",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_200,c_limit,fl_progressive/assets/images/2020/2/19/025fdaf3-89f5-44ca-8636-f0f3e1a3bdf91582107560534-Top-Nav-final_11--1-.jpg"
+    }
+  ],
+  "food": [
+    {
+      "name": "Beef Grill",
+      "price": 24,
+      "categorie": 1,
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_200,c_limit,fl_progressive/assets/images/2020/2/19/8269e5a9-d7ff-4aaf-a137-c72ad5a984511582107536407-Top-Nav-final_09--1-.jpg"
+    },
+    {
+      "name": "Chicken Picatta",
+      "price": 20,
+      "categorie": 1,
+      "image": "http://tutofox.com/foodapp//food/american/chicken-piccata.png"
+    },
+    {
+      "name": "Chicken Romesco",
+      "price": 21,
+      "categorie": 1,
+      "image": "http://tutofox.com/foodapp//food/american/chicken-romesco.png"
+    },
+    {
+      "name": "Chicken Grill",
+      "price": 22,
+      "categorie": 1,
+      "image": "http://tutofox.com/foodapp//food/american/chicken-grill.png"
+    },
+    {
+      "name": "Salmon Grill",
+      "price": 26,
+      "categorie": 1,
+      "image": "http://tutofox.com/foodapp//food/american/salmon-grill.png"
+    },
+    {
+      "name": "Salmon Romesco",
+      "price": 25,
+      "categorie": 1,
+      "image": "http://tutofox.com/foodapp//food/american/salmon-romesco.png"
+    },
+    {
+      "name": "Burger Home",
+      "price": 16,
+      "categorie": 2,
+      "image": "http://tutofox.com/foodapp//food/burger/burger-1.png"
+    },
+    {
+      "name": "MegaBurger",
+      "price": 16,
+      "categorie": 2,
+      "image": "http://tutofox.com/foodapp//food/burger/burger-2.png"
+    },
+    {
+      "name": "Burger Special",
+      "price": 16,
+      "categorie": 2,
+      "image": "http://tutofox.com/foodapp//food/burger/burger-3.png"
+    },
+    {
+      "name": "Burger Cheese",
+      "price": 16,
+      "categorie": 2,
+      "image": "http://tutofox.com/foodapp//food/burger/burger-4.png"
+    },
+    {
+      "name": "Burger Farmer",
+      "price": 16,
+      "categorie": 1,
+      "image": "http://tutofox.com/foodapp//food/burger/burger-5.png"
+    },
+    {
+      "name": "Mini Burger",
+      "price": 16,
+      "categorie": 2,
+      "image": "http://tutofox.com/foodapp//food/burger/burger-6.png"
+    },
+    {
+      "name": "Pizza Vegan",
+      "price": 14,
+      "categorie": 3,
+      "image": "http://tutofox.com/foodapp//food/pizza/pizza-1.png"
+    },
+    {
+      "name": "Pizza Bufalisimo",
+      "price": 14,
+      "categorie": 3,
+      "image": "http://tutofox.com/foodapp//food/pizza/pizza-2.png"
+    },
+    {
+      "name": "Pizza Haiwaiana",
+      "price": 13,
+      "categorie": 3,
+      "image": "http://tutofox.com/foodapp//food/pizza/pizza-3.png"
+    },
+    {
+      "name": "Pizza Peperoni",
+      "price": 16,
+      "categorie": 3,
+      "image": "http://tutofox.com/foodapp//food/pizza/pizza-4.png"
+    },
+    {
+      "name": "Pizza Vegan 2",
+      "price": 12,
+      "categorie": 3,
+      "image": "http://tutofox.com/foodapp//food/pizza/pizza-5.png"
+    },
+    {
+      "name": "Pizza Napolitana",
+      "price": 18,
+      "categorie": 3,
+      "image": "http://tutofox.com/foodapp//food/pizza/pizza-6.png"
+    },
+    {
+      "name": "Coca cola",
+      "price": 2,
+      "categorie": 4,
+      "image": "http://tutofox.com/foodapp//food/drink/cocacola.png"
+    },
+    {
+      "name": "Pepsi",
+      "price": 2,
+      "categorie": 4,
+      "image": "http://tutofox.com/foodapp//food/drink/pepsi.png"
+    },
+    {
+      "name": "Quatro",
+      "price": 2,
+      "categorie": 4,
+      "image": "http://tutofox.com/foodapp//food/drink/quatro.png"
+    },
+    {
+      "name": "Sprite",
+      "price": 2,
+      "categorie": 4,
+      "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
+    }
+  ],
+  "promotions": [
+      "https://rukminim1.flixcart.com/flap/380/580/image/70303adcce782a76.jpg",
+      "https://rukminim1.flixcart.com/flap/380/580/image/92c7763c800108bc.jpg"
+  ],
+  "trendings": [
+      {
+        "image": "https://rukminim1.flixcart.com/image/120/151/jtltw280/backpack/y/8/g/tekie-x-02-school-bag-e-turquoise-bptekx02etur-laptop-backpack-original-imafeuza6zv5ugdc.jpeg",
+        "title":"Skybags, American Tourister...",
+        "subTitle":"From ₹699",
+      },    
+      {
+        "image": "https://rukminim1.flixcart.com/image/120/170/jmqmpow0-1/smart-monitoring-system/t/w/5/mjsxj02cm-xiaomi-original-imaf9h23qvtypbez.jpeg",
+        "title":"Webcams",
+        "subTitle":"From ₹485",
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/360/249/jjolt3k0/speaker/soundbar/z/h/b/marq-by-flipkart-fs23s-original-imaf77gshcgwawzb.jpeg",
+        "title":"Soundbars",
+        "subTitle":"From ₹ 3,999",
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/120/120/jzx0wi80/cpu/t/g/f/nitro-50-dg-e0hsi-004-acer-original-imafjtyh2hhnzmdu.jpeg",
+        "title":"Desktops",
+        "subTitle":"From ₹6,990",
+      },                  
+  ],
+  "trendings2": [
+      {
+        "image": "https://rukminim1.flixcart.com/image/120/120/k1nw9zk0/television/t/a/x/vu-43-uh-43-uh-original-imafh4jgug563fyw.jpeg",
+        "title":"Vu Smart TVs",
+        "subTitle":"Smart, Android & 4K",
+      },    
+      {
+        "image": "https://rukminim1.flixcart.com/image/120/206/k01b8280pkrrdj/headphone/g/j/8/jbl-t450-bt-original-imaff82dvk9wsbzx.jpeg",
+        "title":"Bluetooth Headphones",
+        "subTitle":"From ₹ 899",
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/120/120/k4ss2a80/refrigerator-new/j/w/v/rr21t2h2wcu-hl-5-samsung-original-imafnmkbyzev8szv.jpeg",
+        "title":"Samsung 198 L Direct Cool Single Door 5 Star (2020) Refrigerator with Base Drawer",
+        "subTitle":"Single Door",
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/120/157/k8q8nm80/smartwatch/v/w/7/hebe-b19s-honor-original-imafqzbqxqmqnbfu.jpeg",
+        "title":"Desktops",
+        "subTitle":"From ₹10,999",
+      },                  
+  ],
+  "trendings3": [
+      {
+        "image": "https://rukminim1.flixcart.com/image/120/120/k7dnonk0/mobile/q/d/h/realme-6-pro-rbs0624in-original-imafpmftfgyfpndf.jpeg",
+        "title":"Realme 6 Pro (Lightning Blue, 64 GB)",
+        "subTitle":"64+12+8+2MP Quad Cam",
+      },    
+      {
+        "image": "https://rukminim1.flixcart.com/image/120/120/k6zda4w0/mobile/s/n/9/tecno-camon-15-pro-cd8-original-imafpbhc7p25zda7.jpeg",
+        "title":"Tecno Camon 15 Pro (Opal White, 128 GB)",
+        "subTitle":"48MP Rear Camera",
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/120/120/k6mibgw0/mobile/f/g/v/samsung-galaxy-s20-sm-g980flbdinu-original-imafpfkbfdgfzzgj.jpeg",
+        "title":"Samsung Galaxy S20 (Cloud Blue, 128 GB)",
+        "subTitle":"64MP Triple Cam",
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/120/120/k7531jk0/mobile/t/h/m/oppo-a31-cph2015-original-imafpg3hg9v6rd6w.jpeg",
+        "title":"OPPO A31 (Fantasy White, 64 GB)",
+        "subTitle":"12MP Triple Cam",
+      },                  
+  ]  
+}
